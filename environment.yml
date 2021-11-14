@@ -1,0 +1,6 @@
+name: coverband
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
